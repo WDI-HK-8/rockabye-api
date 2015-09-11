@@ -32,7 +32,6 @@ pickle-email-*.html
 .rvmrc
 
 *.bowerrc
-bower.json
 
 .powenv
 bower_components
