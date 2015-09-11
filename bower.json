@@ -1,0 +1,19 @@
+{
+  "name": "rails-rockabye",
+  "version": "0.0.1",
+  "homepage": "https://github.com/WDI-HK-8/rockabye-api",
+  "authors": [
+    "Rachel <rachella@gmail.comOB>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ng-file-upload": "~7.0.17"
+  }
+}
