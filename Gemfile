@@ -10,6 +10,7 @@ gem 'unicorn'
 gem 'devise_token_auth'
 gem 'omniauth'
 gem 'rack-cors', :require => 'rack/cors'
+gem 'rails_12factor', group: :production
 
 group :development do
   gem "web-console"
